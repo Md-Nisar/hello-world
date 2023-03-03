@@ -1,2 +1,2 @@
 # hello-world
-demo repository
+I'm loving GitHub :)
